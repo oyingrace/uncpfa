@@ -466,7 +466,8 @@ background-color: var(--eerie-black-1);
   #ABOUT
 \*-----------------------------------*/
 
-.about { padding-block-start: 120px; }
+.about { padding-block-start: 120px;
+margin:20px; }
 
 .about-banner {
   position: relative;
